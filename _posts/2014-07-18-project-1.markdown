@@ -4,7 +4,7 @@ subtitle: subtitle here
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: 1 normal skin pH chart.png
+img: normal-skin-pH-chart.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
 project-date: April 2014
