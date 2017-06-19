@@ -1,5 +1,5 @@
 ---
-title: Healthy skin is mildly acid
+title: Healthy skin is mildly acidic
 subtitle: subtitle here
 layout: default
 modal-id: 1
