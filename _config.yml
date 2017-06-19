@@ -3,7 +3,7 @@
 
 # Site settings
 title: Théry
-email: your-email@domain.com
+email: chao.joe@gmail.com
 description: The Future of Skin Care is here
 
 
@@ -13,15 +13,14 @@ people:
   pic: 1
   position: CEO and Founder
   social:
-    - title: twitter
-      url: #
+    - title: linkedin
+      url: https://www.linkedin.com/in/joseph-chao-a31627/
     - title: facebook
       url: #
-    - title: stack-overflow
-      url: #
+
 
 - name: Liqiang Zhang
-  pic: 2
+  pic: 1
   position: CSO and Founder
   social:
     - title: twitter
@@ -29,7 +28,7 @@ people:
     - title: facebook
       url: #
     - title: linkedin
-      url: #
+      url: 
 
 # - name: Diana Petersen
 #   pic: 3
@@ -48,12 +47,10 @@ social:
     url: http://twitter.com/jekyllrb
   - title: facebook
     url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+  - title: linkedin
+    url: https://www.linkedin.com/in/joseph-chao-a31627/
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/joechao
 
 # Postal address (add as many lines as necessary)
 address:

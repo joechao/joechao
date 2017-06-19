@@ -17,6 +17,20 @@ Helvetica,Arial,sans-serif; }
 or in this style block.
   We recommend moving this block and the preceding CSS link to the
 HEAD of your HTML file. */
+
+<script>
+function resizeToMax(id){
+    myImage = new Image() 
+    var img = document.getElementById(id);
+    myImage.src = img.src; 
+    if(myImage.width > myImage.height){
+        img.style.width = "100%";
+    } else {
+        img.style.height = "100%";
+    }
+}
+</script>
+
 </style>
 
     <!-- Custom CSS & Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
