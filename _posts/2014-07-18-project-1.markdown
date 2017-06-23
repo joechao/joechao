@@ -10,7 +10,7 @@ alt: image-alt
 project-date: April 2014
 <!--client: Start Bootstrap-->
 category: Web Development
-description: #Skin acidity is critical for skin health.
+description: Skin acidity is critical for skin health.
  #The ideal pH for healthy skin is pH 4.0-5.8
 
 ---
