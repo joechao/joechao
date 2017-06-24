@@ -1,15 +1,17 @@
 ---
-title: Escape
-subtitle: Website Design
+title: Healthy acidity protects our skin
+subtitle: 
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
+img: skin_profile_single_panel.png
+thumbnail: 2_thumbnail.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: The acid layer is a natural barrier. Low pH is important to two lipid synthesis enzymes to synthesize ceramides, which are critical components to form permeability barrier. It provides protection against microbial pathogens and oxidation, and keep the moisture in the skin.
+
+
 
 ---
