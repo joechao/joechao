@@ -1,6 +1,6 @@
 ---
-title: Round Icons
-subtitle: Graphic Design
+title: Skin pH and Wound Healing
+subtitle: 
 layout: default
 modal-id: 6
 date: 2014-07-15
@@ -10,6 +10,7 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Low pH has a important role to play in both the healing of and treatment of chronic and acute wounds by affecting enzymatic biosynthesis, cell proliferation, immuno-response, biofilms and antimicrobial efficacy.  pH is a marker of both diagnostic and theranostic interest. The pH detecting methods for wound healing have being actively developing. Acidification of the wound bed by dressing will both aid in the healing of the wound and control poly-microbial infections. Monitoring surface pH can track the condition of the wound bed and eventually aid in determining the wound’s response to treatment.
+
 
 ---
