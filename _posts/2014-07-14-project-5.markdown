@@ -4,7 +4,6 @@ subtitle:
 layout: default
 modal-id: 5
 date: 2014-07-14
-
 thumbnail: 5_thumbnail.jpg
 alt: image-alt
 project-date: April 2014
